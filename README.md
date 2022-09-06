@@ -1,4 +1,4 @@
-# LINK DEL VIDEO DE LA EXPLIACIÓN DE LA PRUEBA REACT 01
+# LINK DEL VIDEO DE LA EXPLICACIÓN DE LA PRUEBA REACT 01
 AQUÍ:[https://youtu.be/mlnUFL9guoc]
 
 # Getting Started with Create React App
